@@ -15,7 +15,7 @@
 ### `> whoami`
 
 Développeur full-stack avec **3 ans** de craft.  
-Obsédé par le pixel perfect et la DX.
+J'aume creer des interfaces qui font **ressentir** quelque chose.
 
 ### `> stack`
 
