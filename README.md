@@ -4,7 +4,7 @@
 ╭──────────────────────────────────────────────────────────────────╮
 │                                                                  │
 │   LEUTCHUADEU IDRISS DUVAL                                       │
-│   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                     │
+│   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                       │
 │                                                                  │
 │   Front-End Lead @ PSA Technologie                               │
 │   Meta Certified Front-End Developer                             │
