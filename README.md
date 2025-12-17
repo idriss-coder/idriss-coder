@@ -15,7 +15,7 @@
 ### `> whoami`
 
 Développeur full-stack avec **3 ans** de craft.  
-J'aume creer des interfaces qui font **ressentir** quelque chose.
+J'aime creer des interfaces qui font **ressentir** quelque chose.
 
 ### `> stack`
 
