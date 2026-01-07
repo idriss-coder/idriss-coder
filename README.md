@@ -25,7 +25,7 @@ Next.js · React · TypeScript · Node.js / [k8s, Rust, Figma]
 
 ### `> links`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idriss-duval/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrissduval/)
 
 ---
 
